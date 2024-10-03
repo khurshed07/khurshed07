@@ -10,7 +10,8 @@
   <a href="khurshedansari786.k@gmail.com">Contact me</a> 
 </p>
 
- 
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
+<!-- <img src="https://img.freepik.com/premium-photo/laptop-with-code-coffee-cup-smartphone-dark-blue-background-isometric-illustration_1187703-35352.jpg?w=1060" min-width="300px" max-width="300px" width="350px align="right"> -->
 
 
 **khurshed07/khurshed07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
