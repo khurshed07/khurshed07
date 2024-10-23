@@ -28,9 +28,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm passionate about solving complex coding challenges and often lose track of time while debugging, but I always find it fun to crack tough problems!
 
 ## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://github.com/khurshed07">
-<img src="Postman - Postman API Fundamentals Student Expert - 2024-10-23.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="[https://github.com/khurshed07](https://github.com/khurshed07/khurshed07/blob/main/postman%20khurshed%20api.pdf)">
+<img src="Postman - Postman API Fundamentals Student Expert - 2024-10-23.png" width="100px" height="100px" /> </a>
+  <a href="[Share Badge.png](https://github.com/khurshed07/khurshed07/blob/main/Share%20Badge.png)">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" /></a>
 
  </a>
 </div>
