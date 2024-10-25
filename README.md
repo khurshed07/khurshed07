@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm passionate about solving complex coding challenges and often lose track of time while debugging, but I always find it fun to crack tough problems!
 
-## Hacktoberfest
+## Hacktoberfest 2024
 [![An image of @khurshed07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khurshed07)](https://holopin.io/@khurshed07)
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
