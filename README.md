@@ -2,30 +2,23 @@
 
 <!--- Adding Header Elements -->
 <p align="center">
-<!--   <a href="http://sanjaykv.com/">Portfolio</a> - -->
   <a href="https://www.linkedin.com/in/khurshed-ansari-615180229/">LinkedIn</a> - 
-<!--   <a href="https://x.com/sanjay_kv_">Twitter</a> - -->
-<!--   <a href="https://recodehive.com/">Website</a> - -->
-<!--   <a href="https://crowdsource.google.com/about/blog/community-spotlight-friendship/">Google Featured</a> - -->
-  <a href="khurshedansari786.k@gmail.com">Contact me</a> 
+  <a href="mailto:khurshedansari786.k@gmail.com">Contact me</a> 
 </p>
 
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
-<!-- <img src="https://img.freepik.com/premium-photo/laptop-with-code-coffee-cup-smartphone-dark-blue-background-isometric-illustration_1187703-35352.jpg?w=1060" min-width="300px" max-width="300px" width="350px align="right"> -->
 
+# Hi there! I'm Khurshed Ansari 👋
 
-**khurshed07/khurshed07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on solving open-source challenges, focusing on full-stack development, contributing to innovative projects, and enhancing my skills across a wide range of technologies.
-- 🌱 I’m currently learning full-stack development through hands-on open-source problem-solving, sharpening my skills in both front-end and back-end technologies while contributing to impactful projects.
-- 👯 I’m looking to collaborate on open-source projects that focus on full-stack development, problem-solving, and innovative solutions, where we can build impactful applications together and grow as developers.
-- 🤔 I’m looking for help with open-source contributions, particularly in full-stack development, code reviews, and improving project scalability and performance
-- 💬 Ask me about my experiences with open-source contributions, full-stack development, or the technical challenges I've encountered and solved while working on innovative projects!
-- 📫 How to reach me: You can connect with me via GitHub or email at [khurshedansari786.k@gmail.com] to discuss open-source collaboration, full-stack development, or any exciting project ideas!
+- 🔭 Currently tackling open-source challenges in full-stack development, sharpening my skills in front-end and back-end technologies.
+- 🌱 Passionate about hands-on learning through impactful project contributions.
+- 👯 Open to collaborating on full-stack projects, problem-solving, and innovative solutions.
+- 🤔 Looking for insights on open-source contributions, code reviews, and project scalability.
+- 💬 Happy to chat about my open-source journey, full-stack development, or problem-solving experiences!
+- 📫 Reach me via [GitHub](https://github.com/khurshed07) or email at [khurshedansari786.k@gmail.com](mailto:khurshedansari786.k@gmail.com).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm passionate about solving complex coding challenges and often lose track of time while debugging, but I always find it fun to crack tough problems!
+- ⚡ Fun fact: Debugging challenging issues is my idea of fun!
+
 
 ## Hacktoberfest 2024
 [![An image of @khurshed07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khurshed07)](https://holopin.io/@khurshed07)
