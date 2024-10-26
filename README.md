@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋, I'm <a href="https://www.linkedin.com/in/khurshed-ansari-615180229/">Khurshed</a> </h1>
+<h1 align="center"> Hi there 👋, I'm <a href="https://www.linkedin.com/in/khurshed-ansari-615180229/">Khurshed Ansari</a> </h1>
 
 <!--- Adding Header Elements -->
 <p align="center">
