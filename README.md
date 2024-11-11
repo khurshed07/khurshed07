@@ -23,7 +23,7 @@
 [![An image of @khurshed07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khurshed07)](https://holopin.io/@khurshed07)
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<a href="https://github.com/khurshed07/khurshed07/blob/main/postman%20khurshed%20api.pdf">
+<!-- <a href="https://github.com/khurshed07/khurshed07/blob/main/postman%20khurshed%20api.pdf">
 <img src="Postman - Postman API Fundamentals Student Expert - 2024-10-23.png" width="100px" height="100px" />
 </a>
 <a href="https://github.com/khurshed07/khurshed07/blob/main/Share%20Badge.png">
@@ -40,5 +40,7 @@
   </a>
   <a href="https://github.com/khurshed07/khurshed07/blob/main/Share%20Badge%206.png">
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  </a>
+  </a> -->
+  
+  [![GSSoC-Badges](https://gssoc-dymanic-badges.vercel.app/api/khurshed07?year=2024Extd)](https://gssoc.girlscript.tech)
 </div>
