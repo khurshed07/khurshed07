@@ -43,4 +43,8 @@
   </a> -->
   
   [![GSSoC-Badges](https://gssoc-dymanic-badges.vercel.app/api/khurshed07?year=2024Extd)](https://gssoc.girlscript.tech)
+  <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=khurshed07">
+  ![image](https://github.com/user-attachments/assets/6b474885-d390-4083-8bc7-4f358eb985d5)
+  </a>
+
 </div>
