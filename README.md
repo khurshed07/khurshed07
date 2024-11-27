@@ -42,9 +42,9 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
   </a> -->
   
-  <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=khurshed07">
-    
-  ![image](https://github.com/user-attachments/assets/6b474885-d390-4083-8bc7-4f358eb985d5)
-  </a>
+  <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=khurshed07" target="_blank">
+  <img src="https://github.com/user-attachments/assets/6b474885-d390-4083-8bc7-4f358eb985d5" alt="Leaderboard Image">
+</a>
+
 
 </div>
